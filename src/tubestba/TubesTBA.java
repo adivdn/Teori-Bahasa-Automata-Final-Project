@@ -89,7 +89,7 @@ public class TubesTBA {
         
         // CFG
         // S -> 1X | 2S | 6S7S | 9S10X
-        // X -> 3S | 2S | 5S | 8S | lambda
+        // X -> 3S | 4S | 5S | 8S | lambda
         
         
 
